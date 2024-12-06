@@ -1,4 +1,4 @@
-import styles from "./Home.module.css";
+import styles from "./home.module.css";
 import { FaFacebookF, FaInstagram, FaLinkedinIn } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa6";
 import { LuPhone } from "react-icons/lu";
