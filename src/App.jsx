@@ -357,7 +357,7 @@ export default function App() {
         <div className={styles.footerContent}>
           <p>Copyright © 2024. JustHome</p>
         </div>
-        <img src="/assets/whiteLogo.svg" />
+        <img src="/assets/whiteLogo.svg" alt="logo just home"/>
         <div className={styles.socialLinks}>
           <a href="#" className={styles.socialLink}>
             <FaFacebookF />
